@@ -1,0 +1,25 @@
+ body{
+	    	overflow: scroll;
+	    }
+		.form-horizontal{
+			margin-top: 80px;
+			margin-left: 400px;
+		}
+		.form-control{
+			width: 250px;
+		}
+		.form-group{
+			margin-left: 500px;
+		}
+		#imageplce{
+			margin-left: 160px;
+			margin-bottom: 40px;
+		}
+		#fooder {
+			margin-top: 250px;
+			margin-left: 200px;
+            margin-bottom: 20px;
+            font-style: italic;
+          
+
+		}
